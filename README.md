@@ -56,10 +56,11 @@ npm install fs
 - with the PUT `localhost:3001/api/categories/1` we can update the category with the specific id of 1. In this case we changed the name to 'UPDATE'
 
 ![image showing the obve description](./Assets/IMG7.png)
+![image showing the obve description](./Assets/IMG8.png)
 
 - with the DELETE `localhost:3001/api/categories/1` we can delete the category with the specific id of 1. Now when all the categories are loaded, we start with the id of 2.
 
-![image showing the obve description](./Assets/IMG8.png)
+![image showing the obve description](./Assets/IMG10.png)
 ![image showing the obve description](./Assets/IMG9.png)
 
 - All of these routes are very similar between each one. As to how these API routes specifically function behind the scenes can be seen in the routes folder.
